@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833076412987",
+    "project_id": "oxy-store",
+    "storage_bucket": "oxy-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833076412987:android:44f7c3f77966521215d21e",
+        "android_client_info": {
+          "package_name": "com.oxytocin.app.oxytocin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833076412987-kee396rlijihq929n86vbu2tek6n81dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1UdB7nAAEBtcQxyWncGbnirYWKMmQzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833076412987-kee396rlijihq929n86vbu2tek6n81dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

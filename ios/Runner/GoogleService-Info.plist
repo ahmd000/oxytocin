@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>833076412987-m246u9ol19kcfkukubg1afsc9q2lts80.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833076412987-m246u9ol19kcfkukubg1afsc9q2lts80</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwrJ_SoOrheeFWmghkavlh9W-W5mt_3AY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833076412987</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oxytocin.app.oxytocin</string>
+	<key>PROJECT_ID</key>
+	<string>oxy-store</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oxy-store.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833076412987:ios:1b384c9e3fc7d17915d21e</string>
+</dict>
+</plist>
